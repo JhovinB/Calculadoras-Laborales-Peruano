@@ -34,6 +34,7 @@ Los resultados proporcionados por esta herramienta son estimaciones referenciale
 
 # Desarrollado 
 Autor: Jhovin Bonifacio Lozano 🇵🇪 - Ingeniero de Sistemas
+
 Proyecto concebido, diseñado y desarrollado por mi persona, utilizando Python, con el propósito de aportar una solución tecnológica que facilite el acceso a información y cálculos relacionados con los beneficios laborales en el Perú.
 
-Tecnología al servicio de los trabajadores peruanos.
+# Tecnología al servicio de los trabajadores peruanos.
