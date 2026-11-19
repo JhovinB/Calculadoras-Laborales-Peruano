@@ -8,7 +8,7 @@ El proyecto busca facilitar el acceso a información laboral, ofreciendo herrami
 
 # Aplicación en línea
 🌐 ¡Prueba la aplicación aquí!
-👉 Calculadora de Beneficios Laborales – Perú:
+
 https://huggingface.co/spaces/Jhovin/calculadora-cts-peru
 
  La aplicación se encuentra desplegada y disponible en Hugging Face Spaces, por lo que puedes utilizarla directamente desde tu navegador, sin necesidad de instalar programas adicionales.
