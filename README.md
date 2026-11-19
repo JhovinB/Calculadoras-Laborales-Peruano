@@ -8,11 +8,13 @@ El proyecto busca facilitar el acceso a información laboral, ofreciendo herrami
 
 # Aplicación en línea
 🌐 ¡Prueba la aplicación aquí!
-👉 Calculadora de Beneficios Laborales – Perú: https://huggingface.co/spaces/Jhovin/calculadora-cts-peru
+👉 Calculadora de Beneficios Laborales – Perú:
+https://huggingface.co/spaces/Jhovin/calculadora-cts-peru
 
  La aplicación se encuentra desplegada y disponible en Hugging Face Spaces, por lo que puedes utilizarla directamente desde tu navegador, sin necesidad de instalar programas adicionales.
 
 # Funcionalidades
+
 💰 Sueldo: cálculo y estimación de remuneraciones.
 🏦 CTS: cálculo de la Compensación por Tiempo de Servicios.
 🎁 Gratificaciones: estimación de gratificaciones de julio y diciembre.
@@ -21,6 +23,7 @@ El proyecto busca facilitar el acceso a información laboral, ofreciendo herrami
 ⚖️ Otros beneficios laborales: herramientas relacionadas con los derechos del trabajador peruano.
 
 # Tecnologías utilizadas
+
 Python: lenguaje principal de desarrollo.
 Hugging Face Spaces: plataforma utilizada para el despliegue de la aplicación.
 🎯 Objetivo del proyecto
