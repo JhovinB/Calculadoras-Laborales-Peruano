@@ -25,7 +25,9 @@ https://huggingface.co/spaces/Jhovin/calculadora-cts-peru
 # Tecnologías utilizadas
 
 Python: lenguaje principal de desarrollo.
+
 Hugging Face Spaces: plataforma utilizada para el despliegue de la aplicación.
+
 🎯 Objetivo del proyecto
 Desarrollar una herramienta tecnológica intuitiva y accesible que permita a los trabajadores peruanos conocer y estimar sus beneficios laborales, simplificando cálculos que normalmente requieren tiempo y conocimientos específicos.
 
@@ -37,4 +39,4 @@ Autor: Jhovin Bonifacio Lozano 🇵🇪 - Ingeniero de Sistemas
 
 Proyecto concebido, diseñado y desarrollado por mi persona, utilizando Python, con el propósito de aportar una solución tecnológica que facilite el acceso a información y cálculos relacionados con los beneficios laborales en el Perú.
 
-# Tecnología al servicio de los trabajadores peruanos.
+Tecnología al servicio de los trabajadores peruanos.
